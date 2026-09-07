@@ -27,3 +27,14 @@ print("---- GÉNEROS-----")
 print("Acción")
 print("comedia")
 genero_favorito=input("¿qué género te gusta? ")
+print ("Buscando Péliculas del Género " +genero_favorito)
+if (genero_pelicula==genero_favorito) :
+    print(nombre_pelicula)
+if (genero_de_pelicula2==genero_favorito):
+  print(nombre_pelicula2)
+  if (genero_de_pelicula3==genero_favorito):
+    print(nombre_pelicula3)
+    if (genero_pelicula4==genero_favorito):
+       print(nombre_pelicula4)   
+  if (genero_pelicula5==genero_favorito):
+     print(nombre_pelicula5)
